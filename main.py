@@ -14,7 +14,7 @@ class Nethunter:
         self.root.title("Nethunter")
         self.root.geometry("800x800")
 
-        self.bg_image = tk.PhotoImage(file=r"Network-hunter\Background.png")
+        self.bg_image = tk.PhotoImage(file=r"Background.png")
 
         self.bg_label = tk.Label(self.root, image=self.bg_image)
         self.bg_label.place(x=0, y=0, relwidth=1, relheight=1)
