@@ -1,4 +1,4 @@
-import scapy.all as scapy
+from scapy import all as scapy
 import tkinter as tk
 import tkinter.messagebox as tkmessagebox
 import re
