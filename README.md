@@ -1,2 +1,2 @@
 # Nethunter
- A network scanner that I am making for fun, capable of scanning networks, devices and ports.
+ A network scanner with a GUI, only to be used on networks with permission!
